@@ -1,0 +1,54 @@
+.container{ 
+    background-image: linear-gradient(100deg, #5d7072, #29696e);
+    transition: 0.3s linear;
+    position: relative;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border-radius: 25px;
+    padding-top: 15px;
+}
+.form-group{
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+#add{
+    margin-top: 7px;
+    background-image: linear-gradient(100deg, #5d7072, #29696e);
+    transition: 0.3s linear;
+    position: relative;
+    color: white;
+    border-color: #054850;
+}
+#clear{
+    margin-top: 7px;
+    background-image: linear-gradient(100deg, #5d7072, #29696e);
+    transition: 0.3s linear;
+    position: relative;
+    color: white;
+    border-color: #054850;
+}
+#title{
+    margin-top: 7px;
+    border-width: 5px;
+    width: 70%;
+    background-image: linear-gradient(100deg, #5d7072, #29696e);
+    transition: 0.3s linear;
+    position: relative;
+    color: white;
+}
+
+#description{
+    margin-top: 7px;
+    border-width: 5px;
+    width: 70%;
+    background-image: linear-gradient(100deg, #5d7072, #29696e);
+    transition: 0.3s linear;
+    position: relative;
+    color: white;
+}
+
+#delete{
+    background-color: rgb(87, 212, 192);
+    color: black;
+}
+
